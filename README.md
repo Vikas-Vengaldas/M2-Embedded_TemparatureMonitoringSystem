@@ -20,9 +20,11 @@ The Vehicle Seat Heat Monitoring System is capable of maintaining of heat in the
 | `5_ImagesAndVideos`      | Simulation Images and Videos|
 | `6_Report`      | project report|
 
-## Simulation Image
+## Simulation Images
 
-![simulIDE](https://user-images.githubusercontent.com/94158848/144254210-aaa70728-a119-4f53-a499-2c0c43f388d1.png)
+![Temparature](https://user-images.githubusercontent.com/94158848/144262799-c3a1181a-a7ab-4b49-b710-fda38727f025.png)
+![Temparature_change](https://user-images.githubusercontent.com/94158848/144262851-b3bec526-7036-41e9-94c6-d8dace4059f2.png)
+
 
 
 
