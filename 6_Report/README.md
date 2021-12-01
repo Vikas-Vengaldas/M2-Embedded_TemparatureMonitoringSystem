@@ -55,3 +55,40 @@ In our project, the sensor will sense is the driver has been seated or not and i
 | HLR4_LLR1   |LCD and LED|
 | HLR5_LLR1   | VS code with AVR GCC compiler |
 | HLR5_LLR2   | SimulIDE |
+
+
+# Architecture
+## Block Diagram
+
+![BlockDiagram](https://user-images.githubusercontent.com/94158848/144252353-b59a1418-ab91-470d-8abe-8768d463ff76.png)
+
+
+## Flow Chart
+![Flow_chart](https://user-images.githubusercontent.com/94158848/144252562-c0065241-7c9d-4bcc-b261-9cc929136fb9.png)
+
+
+# Test Plans
+
+|  Test ID | Description  | Input  | Output  | Status |
+|---|---|---|---|---|
+| TID_01  | Is person seated  | push button=1| push button=1| PASS  |
+| TID_02  | Is person not seated  | push button=0| push button=0 | PASS  |
+| TID_03  | Temperature Request | Temp=0| heater=Off | PASS  |
+| TID_04  | Temperature Request | Temp=20| heater=20 degree generation | PASS  |
+| TID_05  | Temperature Request | Temp=25| heater=25 degree generation | PASS  |
+| TID_06  | Temperature Request | Temp=29| heater=29 degree generation | PASS  |
+| TID_07  | Temperature Request | Temp=33| heater=33 degree generation | PASS  |
+| TID_08  | LED ON | Button=1 && Heater=1| LED=1 | PASS  |
+| TID_09  | LED OFF | Button=0 && Heater=0| LED=0 | PASS  |
+| TID_10  | LCD Display | Temperature :)<br />20 deg Cel| Temperature :)<br />20 deg Cel| PASS  |
+
+## Images And Videos
+![simulIDE](https://user-images.githubusercontent.com/94158848/144254210-aaa70728-a119-4f53-a499-2c0c43f388d1.png)
+
+
+## Contributors List and Summary
+|PS no. |  Name   |    Project Title    |
+|-------|---------|----------------|
+| `40020879` | Vikas Vengaldas |  Temperature Monitoring System |  
+
+
