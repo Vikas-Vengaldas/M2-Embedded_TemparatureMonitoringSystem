@@ -82,8 +82,16 @@ In our project, the sensor will sense is the driver has been seated or not and i
 | TID_09  | LED OFF | Button=0 && Heater=0| LED=0 | PASS  |
 | TID_10  | LCD Display | Temperature :)<br />20 deg Cel| Temperature :)<br />20 deg Cel| PASS  |
 
-## Images And Videos
+# Images And Videos
+## Simulation Images
 ![simulIDE](https://user-images.githubusercontent.com/94158848/144254210-aaa70728-a119-4f53-a499-2c0c43f388d1.png)
+
+
+![Temparature](https://user-images.githubusercontent.com/94158848/144263954-d493e215-1778-4548-a565-ea3d48f58327.png)
+
+![Temparature_change](https://user-images.githubusercontent.com/94158848/144264124-d4691efe-2c71-4638-95ad-b1bc6d5ac377.png)
+
+
 
 
 ## Contributors List and Summary
