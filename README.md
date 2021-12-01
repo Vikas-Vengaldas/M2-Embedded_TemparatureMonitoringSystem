@@ -10,9 +10,8 @@ The Vehicle Seat Heat Monitoring System is capable of maintaining of heat in the
 | `2_Architectures`         | Documents specifying design details|
 | `3_Implementation` | All code and documentation|
 | `4_Test_plan`      | Documents with test plans and procedures|
-| `5_Simulations`      | SimulIDE simulation file|
-| `6_ImagesAndVideos`      | Simulation Images and Videos|
-| `7_Report`      | Simulation Images and Videos|
+| `5_ImagesAndVideos`      | Simulation Images and Videos|
+| `6_Report`      | project report|
 
 
 
