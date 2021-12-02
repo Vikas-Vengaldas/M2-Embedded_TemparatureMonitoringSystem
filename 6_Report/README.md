@@ -34,6 +34,17 @@ In our project, the sensor will sense is the driver has been seated or not and i
 ### When:
 *  At low or high Temperature
 
+## Bill of Materials
+
+
+* Hd44780-19 : Hd44780   
+* Led-11 : Led   
+* Led-9 : Led   
+* Potentiometer-7 : Potentiometer 1 kΩ
+* Push-2 : Push   
+* Resistor-3 : Resistor 100 Ω
+* atmega328-1 : atmega328   
+
 
 ## Detail requirements
 ### High Level Requirements
