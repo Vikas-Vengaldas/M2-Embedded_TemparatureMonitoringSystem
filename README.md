@@ -20,6 +20,17 @@ The Vehicle Seat Heat Monitoring System is capable of maintaining of heat in the
 | `5_ImagesAndVideos`      | Simulation Images and Videos|
 | `6_Report`      | project report|
 
+## Bill of Materials
+
+
+* Hd44780-19 : Hd44780   
+* Led-11 : Led   
+* Led-9 : Led   
+* Potentiometer-7 : Potentiometer 1 kΩ
+* Push-2 : Push   
+* Resistor-3 : Resistor 100 Ω
+* atmega328-1 : atmega328   
+
 ## Simulation Images
 
 ![Temparature](https://user-images.githubusercontent.com/94158848/144262799-c3a1181a-a7ab-4b49-b710-fda38727f025.png)
